@@ -1,0 +1,40 @@
+name: Generate Bird Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jalan otomatis tiap hari
+  workflow_dispatch:       # bisa dijalankan manual
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate bird SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/generate_bird.py \
+            --user "${{ github.repository_owner }}" \
+            --out dist/github-contribution-grid-bird-dark.svg
+
+      - name: Push ke branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
