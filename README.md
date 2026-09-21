@@ -74,7 +74,7 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&hide_border=true&bg_color=0D1117&color=C06DDD&line=9303C5&point=FFFFFF&area=true&area_color=9303C5" width="48%" alt="Contribution graph"/>
 </div>
 
-ANIMASI BURUNG: aktifkan setelah workflow "Generate Bird Animation" sukses dijalankan. Caranya, hapus dua baris komentar (pembuka dan penutup) yang mengapit blok di bawah ini. -->
+<!--ANIMASI BURUNG: aktifkan setelah workflow "Generate Bird Animation" sukses dijalankan. Caranya, hapus dua baris komentar (pembuka dan penutup) yang mengapit blok di bawah ini. -->
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/output/github-contribution-grid-bird-dark.svg" width="100%" alt="Bird eating contributions"/>
