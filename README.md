@@ -67,10 +67,10 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&icon_color=9303C5&text_color=C9D1D9&ring_color=9303C5" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&icon_color=9303C5&text_color=C9D1D9&ring_color=9303C5" width="48%" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com/?user=RidhoPtraDev&hide_border=false&border=1F2937&border_radius=14&background=0D1117&stroke=1F2937&ring=9303C5&fire=CE36CC&currStreakNum=FFFFFF&currStreakLabel=C06DDD&sideNums=FFFFFF&sideLabels=8B93A7&dates=8B93A7" width="48%" alt="GitHub streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&langs_count=6&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&text_color=C9D1D9" width="48%" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&langs_count=6&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&text_color=C9D1D9" width="48%" alt="Top languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&hide_border=true&bg_color=0D1117&color=C06DDD&line=9303C5&point=FFFFFF&area=true&area_color=9303C5" width="48%" alt="Contribution graph"/>
 </div>
 
