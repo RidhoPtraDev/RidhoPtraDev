@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=RidhoPtraDev&fontSize=58&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=ROLE%20KAMU%20%7C%20BIDANG%20KEAHLIAN&descAlignY=55&descSize=17&descColor=00D4FF" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Emonn;ROLE+KAMU;MOTTO+ATAU+TAGLINE+KAMU" alt="Typing SVG" />
-
-<br>
+<img src="./assets/banner.svg" width="100%" alt="Ridho Putra Aulia (Emonn) — Full-Stack Developer"/>
 
 </div>
 
@@ -16,137 +12,94 @@
 
 ```yaml
 whoami:
-  full_name: "Ridho Putra Aulia"
-  nickname: "Emonn"
-  role: "ROLE 1 / ROLE 2 / ROLE 3"
-  bags:
-    - "Proyek 1 — deskripsi singkat"
-    - "Proyek 2 — deskripsi singkat"
-  status: "STATUS KAMU SAAT INI"
+  name: "Ridho Putra Aulia"
+  alias: "Emonn"
+  handle: "@RidhoPtraDev"
+  role: "Full-Stack Developer"
+  building:
+    - "MindCare — mental health platform with an AI assistant"
+  learning: "TypeScript · Next.js · NestJS"
+  status: "learning in public, shipping consistently"
 ```
 
 </td>
 </tr>
 </table>
 
----
-
-## About
-
-Saya **Ridho Putra Aulia** (biasa dipanggil **Emonn**) — jelaskan siapa kamu dalam 1–2 kalimat (mahasiswa/profesional, fokus apa, tujuan apa).
-
-- **Jabatan** di **[NAMA_PROYEK](https://link-proyek-kamu.com)**, deskripsi singkat.
-- Pendiri/pembuat **PROYEK_2**, deskripsi singkat.
-- Sedang mengerjakan **PROYEK_3**, deskripsi singkat.
-- Sedang belajar: **TOPIK_1**, **TOPIK_2**.
-
----
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=55&section=header&text=Tech%20Stack&fontSize=20&fontColor=00D4FF&animation=twinkling"/>
+<img src="./assets/title-about.svg" width="100%" alt="About Me"/>
 </div>
 
-<div align="center">
+Hi, I'm **Ridho Putra Aulia**, but most people call me **Emonn**. I build full-stack web applications, from the interface people see to the backend and database behind it.
 
+I enjoy products that make a real difference. My main project right now is **[MindCare](https://github.com/RidhoPtraDev/MindCare)**, a mental health platform with an AI assistant, chat and video consultations with psychologists, and a Mood Journey feature for tracking and reflecting on your moods.
+
+- Building: **MindCare**
+- Working with: **TypeScript, Next.js, NestJS, PostgreSQL**
+
+<br>
+
+<div align="center">
+<img src="./assets/title-stack.svg" width="100%" alt="Tech Stack"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,nestjs,postgres,git,github&theme=dark&perline=11" alt="Tech stack icons"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/title-projects.svg" width="100%" alt="Projects"/>
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**MindCare**](https://github.com/RidhoPtraDev/MindCare) | Mental health platform with an AI assistant, chat/video consultations with psychologists, and Mood Journey | Full-stack web |
+| [**learning-space**](https://github.com/RidhoPtraDev/learning-space) | PemWeb (web programming) project | JavaScript |
+
+<br>
+
+<div align="center">
+<img src="./assets/title-stats.svg" width="100%" alt="GitHub Stats"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=00D4FF&icon_color=7C5CFF&text_color=C9D1D9&ring_color=7C5CFF" width="48%" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=RidhoPtraDev&hide_border=false&border=1F2937&border_radius=14&background=0D1117&stroke=1F2937&ring=00D4FF&fire=7C5CFF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=8B93A7&dates=8B93A7" width="48%" alt="GitHub streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&langs_count=6&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" alt="Top languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&hide_border=true&bg_color=0D1117&color=00D4FF&line=7C5CFF&point=FFFFFF&area=true&area_color=7C5CFF" width="48%" alt="Contribution graph"/>
+</div>
+
+<!-- ANIMASI BURUNG: aktifkan setelah workflow "Generate Bird Animation" sukses dijalankan. Caranya, hapus dua baris komentar (pembuka dan penutup) yang mengapit blok di bawah ini. -->
 <!--
-Format badge:
-https://img.shields.io/badge/NAMA-WARNA_BG?style=for-the-badge&logo=NAMA_LOGO&logoColor=WARNA_LOGO
-Cari nama logo di https://simpleicons.org (pakai slug-nya)
+<div align="center">
+<img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/output/github-contribution-grid-bird-dark.svg" width="100%" alt="Bird eating contributions"/>
+</div>
 -->
 
-**Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00D4FF"/>
-
-**Frameworks & Tools**
-<br>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D4FF"/>
-
-**Database & Cloud**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00D4FF"/>
-
-</div>
-
----
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=55&section=header&text=Featured%20Project&fontSize=20&fontColor=00D4FF&animation=twinkling"/>
-</div>
+<img src="./assets/title-connect.svg" width="100%" alt="Connect"/>
 
-<div align="center">
+<br>
 
-<!-- Ganti dengan logo proyek kamu, atau hapus baris img ini -->
-<img src="https://via.placeholder.com/90" width="90"/>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/RidhoPtraDev)
+<!-- Aktifkan kalau sudah punya, ganti isinya:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/USERNAME_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:EMAIL_KAMU@gmail.com)
+-->
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RidhoPtraDev&label=Profile+Views&color=7C5CFF&style=flat-square" alt="Profile views"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Role_1-0D1117?style=for-the-badge&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Role_2-0D1117?style=for-the-badge&logoColor=00D4FF"/>
-<img src="https://img.shields.io/badge/Role_3-0D1117?style=for-the-badge&logoColor=00D4FF"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=55&section=header&text=GitHub%20Stats&fontSize=20&fontColor=00D4FF&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=RidhoPtraDev&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&theme=minimal&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" width="48%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RidhoPtraDev&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%"/>
-</div>
-
----
-
-<!-- Bird: butuh GitHub Action (lihat bird.yml + generate_bird.py), kalau belum dijalankan bagian ini akan tampil kosong -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/output/github-contribution-grid-bird-dark.svg" width="100%"/>
-</div>
-
----
-
-## Projects
-
-| Project | Role | Stack | Focus |
-|---|---|---|---|
-| [Nama Proyek 1](https://link.com) | Founder | Next.js, FastAPI | Deskripsi singkat |
-| [Nama Proyek 2](https://link.com) | Developer | Vue.js, Node.js | Deskripsi singkat |
-| [Nama Proyek 3](https://link.com) | Creator | Python, ML | Deskripsi singkat |
-
----
-
-<div align="center">
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/RidhoPtraDev)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:EMAIL_KAMU@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=RidhoPtraDev&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
