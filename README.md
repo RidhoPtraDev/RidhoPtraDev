@@ -67,11 +67,11 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=00D4FF&icon_color=7C5CFF&text_color=C9D1D9&ring_color=7C5CFF" width="48%" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=RidhoPtraDev&hide_border=false&border=1F2937&border_radius=14&background=0D1117&stroke=1F2937&ring=00D4FF&fire=7C5CFF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=8B93A7&dates=8B93A7" width="48%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RidhoPtraDev&show_icons=true&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&icon_color=9303C5&text_color=C9D1D9&ring_color=9303C5" width="48%" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=RidhoPtraDev&hide_border=false&border=1F2937&border_radius=14&background=0D1117&stroke=1F2937&ring=9303C5&fire=CE36CC&currStreakNum=FFFFFF&currStreakLabel=C06DDD&sideNums=FFFFFF&sideLabels=8B93A7&dates=8B93A7" width="48%" alt="GitHub streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&langs_count=6&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" alt="Top languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&hide_border=true&bg_color=0D1117&color=00D4FF&line=7C5CFF&point=FFFFFF&area=true&area_color=7C5CFF" width="48%" alt="Contribution graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoPtraDev&layout=compact&langs_count=6&hide_border=false&border_color=1F2937&border_radius=14&bg_color=0D1117&title_color=C06DDD&text_color=C9D1D9" width="48%" alt="Top languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoPtraDev&hide_border=true&bg_color=0D1117&color=C06DDD&line=9303C5&point=FFFFFF&area=true&area_color=9303C5" width="48%" alt="Contribution graph"/>
 </div>
 
 <!-- ANIMASI BURUNG: aktifkan setelah workflow "Generate Bird Animation" sukses dijalankan. Caranya, hapus dua baris komentar (pembuka dan penutup) yang mengapit blok di bawah ini. -->
@@ -88,15 +88,15 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/RidhoPtraDev)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C06DDD)](https://github.com/RidhoPtraDev)
 <!-- Aktifkan kalau sudah punya, ganti isinya:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/USERNAME_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:EMAIL_KAMU@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C06DDD)](https://linkedin.com/in/USERNAME_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C06DDD)](mailto:EMAIL_KAMU@gmail.com)
 -->
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=RidhoPtraDev&label=Profile+Views&color=7C5CFF&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=RidhoPtraDev&label=Profile+Views&color=9303C5&style=flat-square" alt="Profile views"/>
 
 <br><br>
 
