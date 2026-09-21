@@ -21,8 +21,8 @@ GAP = 3            # jarak antar kotak
 DURATION = 32      # detik per loop
 FLIGHT = 0.90      # porsi loop untuk terbang (sisanya jeda + kotak tumbuh lagi)
 
-# warna kotak: level 0 (kosong) sampai 4 (paling aktif) - tema cyan
-CELL_COLORS = ["#161B22", "#0B4F63", "#0A7C99", "#00A8CC", "#00D4FF"]
+# warna kotak: level 0 (kosong) sampai 4 (paling aktif) - tema Royal Violet
+CELL_COLORS = ["#0D1117", "#3C0C54", "#600883", "#7F05AB", "#B34FD6"]
 
 # warna burung
 BODY = "#FFC857"
