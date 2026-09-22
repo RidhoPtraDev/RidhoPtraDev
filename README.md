@@ -6,25 +6,9 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td>
-
-```yaml
-whoami:
-  name: "Ridho Putra Aulia"
-  alias: "Emonn"
-  handle: "@RidhoPtraDev"
-  role: "Full-Stack Developer"
-  building:
-    - "MindCare — mental health platform with an AI assistant"
-  learning: "TypeScript · Next.js · NestJS"
-  status: "learning in public, shipping consistently"
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/profile-card.svg" width="85%" alt="Ridho Putra Aulia profile card"/>
+</div>
 
 <br>
 
