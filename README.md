@@ -52,6 +52,7 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 <img src="https://img.shields.io/badge/JavaScript-9303C5?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-9303C5?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-9303C5?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-9303C5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 **Frameworks & Runtime**
 <br>
