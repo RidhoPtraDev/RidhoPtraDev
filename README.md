@@ -67,7 +67,8 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 | Project | What it is | Stack |
 |---|---|---|
 | [**MindCare**](https://github.com/RidhoPtraDev/MindCare) | Mental health platform with an AI assistant, chat/video consultations with psychologists, and Mood Journey | Full-stack web |
-| [**learning-space**](https://github.com/RidhoPtraDev/learning-space) | PemWeb (web programming) project | JavaScript |
+| [**SmartVault**](https://github.com/RidhoPtraDev/SmartVault) | Cross-platform personal finance app (Android & iOS) with a planned AI receipt scanner via WhatsApp and scheduled insight reports | React Native, Expo, TypeScript |
+| [**learning-space**](https://github.com/RidhoPtraDev/learning-space) | A small self-made web project for practicing front-end fundamentals | JavaScript |
 
 <br>
 
