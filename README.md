@@ -46,7 +46,7 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,nestjs,postgres,git,github&theme=dark&perline=11" alt="Tech stack icons"/>
+<img src="./assets/stack-card.svg" alt="Tech stack"/>
 </div>
 
 <br>
