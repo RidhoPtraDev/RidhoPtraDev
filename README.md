@@ -46,7 +46,31 @@ I enjoy products that make a real difference. My main project right now is **[Mi
 
 <br>
 
-<img src="./assets/stack-card.svg" alt="Tech stack"/>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-9303C5?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-9303C5?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-9303C5?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-9303C5?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Frameworks & Runtime**
+<br>
+<img src="https://img.shields.io/badge/React-9303C5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-9303C5?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-9303C5?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-9303C5?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-9303C5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-9303C5?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Docker-9303C5?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-9303C5?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-9303C5?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
 <br>
