@@ -23,21 +23,21 @@
 
 <!-- Interactive Developer Terminal SVG -->
 <div align="center">
-  <img src="./assets/developer-terminal.svg" width="92%" alt="Interactive Terminal Architecture"/>
+  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/main/assets/developer-terminal.svg" width="92%" alt="Interactive Terminal Architecture"/>
 </div>
 
 <br>
 
 <!-- Senior Engineering Metrics & KPIs -->
 <div align="center">
-  <img src="./assets/senior-metrics.svg" width="92%" alt="Engineering Capabilities & Metrics"/>
+  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/main/assets/senior-metrics.svg" width="92%" alt="Engineering Capabilities & Metrics"/>
 </div>
 
 <br>
 
 <!-- Profile Summary Card -->
 <div align="center">
-  <img src="./assets/profile-card.svg" width="85%" alt="Ridho Putra Aulia profile card"/>
+  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/main/assets/profile-card.svg" width="85%" alt="Ridho Putra Aulia profile card"/>
 </div>
 
 <br>
@@ -225,7 +225,7 @@ I am **Ridho Putra Aulia** (widely known as **Emonn**), a passionate **Full-Stac
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=RidhoPtraDev&label=Profile+Traffic&color=9303C5&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Profile_Traffic-Active_Developer-9303C5?style=flat-square&logo=github&logoColor=white" alt="Profile views"/>
 
   <br><br>
 
