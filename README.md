@@ -39,7 +39,7 @@
 
 ### 👨‍💻 Executive Summary
 
-I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software Engineer** dedicated to building resilient, scalable, and high-performance digital products. My engineering philosophy revolves around **clean code, domain-driven design, and robust system architecture**—from pixel-perfect responsive user interfaces to event-driven backends and database optimization.
+I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software Engineer** dedicated to building resilient, scalable, and high-performance digital products. My engineering philosophy revolves around **clean code, domain-driven design, and robust system architecture** from pixel-perfect responsive user interfaces to event-driven backends and database optimization.
 
 ```bash
 ❯ ridho --status
