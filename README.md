@@ -33,22 +33,13 @@
   <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/14d4622/assets/senior-metrics.svg" width="92%" alt="Engineering Capabilities & Metrics"/>
 </div>
 
-<br>
-
-<!-- Profile Summary Card -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/main/assets/profile-card.svg" width="85%" alt="Ridho Putra Aulia profile card"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="./assets/title-about.svg" width="100%" alt="About Me"/>
 </div>
 
 ### 👨‍💻 Executive Summary
 
-I am **Ridho Putra Aulia** (widely known as **Emonn**), a passionate **Full-Stack Software Engineer** dedicated to building resilient, scalable, and high-performance digital products. My engineering philosophy revolves around **clean code, domain-driven design, and robust system architecture**—from pixel-perfect responsive user interfaces to event-driven backends and database optimization.
+I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software Engineer** dedicated to building resilient, scalable, and high-performance digital products. My engineering philosophy revolves around **clean code, domain-driven design, and robust system architecture**—from pixel-perfect responsive user interfaces to event-driven backends and database optimization.
 
 ```bash
 ❯ ridho --status
