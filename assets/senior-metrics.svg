@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 200" width="100%" height="auto" role="img" aria-label="Key Performance Indicators & Engineering Metrics">
+  <defs>
+    <linearGradient id="metricCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120E1E" />
+      <stop offset="100%" stop-color="#0A0812" />
+    </linearGradient>
+
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B24FCB" />
+      <stop offset="100%" stop-color="#9303C5" />
+    </linearGradient>
+
+    <linearGradient id="emeraldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38EF7D" />
+      <stop offset="100%" stop-color="#11998E" />
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" />
+      <stop offset="100%" stop-color="#3A7BD5" />
+    </linearGradient>
+
+    <linearGradient id="amberGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB347" />
+      <stop offset="100%" stop-color="#FFCC33" />
+    </linearGradient>
+
+    <style>
+      .metric-title {
+        font-family: 'JetBrains Mono', Consolas, monospace;
+        font-size: 11.5px;
+        letter-spacing: 1.5px;
+        fill: #8B949E;
+        text-transform: uppercase;
+      }
+      .metric-val {
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        font-size: 32px;
+        font-weight: 800;
+        letter-spacing: -0.5px;
+      }
+      .metric-sub {
+        font-family: 'JetBrains Mono', Consolas, monospace;
+        font-size: 11px;
+        fill: #6E7681;
+      }
+      .card-box {
+        stroke: #2E1B4E;
+        stroke-width: 1.2;
+        rx: 12;
+      }
+      @keyframes floatEffect {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-3px); }
+      }
+      .floating {
+        animation: floatEffect 4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Metric 1: Clean Architecture -->
+  <g transform="translate(10, 15)">
+    <rect width="215" height="170" rx="12" fill="url(#metricCardBg)" class="card-box" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#purpleGlow)" rx="1.5" />
+    
+    <!-- Icon / Tag -->
+    <rect x="18" y="24" width="28" height="28" rx="6" fill="#9303C5" fill-opacity="0.2" stroke="#B24FCB" stroke-width="1.2" />
+    <path d="M26 38 L32 32 L38 38 M32 33 L32 44" stroke="#D2A8FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <text x="56" y="42" class="metric-title">ENGINEERING</text>
+    <text x="18" y="94" class="metric-val" fill="url(#purpleGlow)">Full-Stack</text>
+    <text x="18" y="122" class="metric-sub">Client to Database &amp; Infra</text>
+    <text x="18" y="142" class="metric-sub" fill="#38EF7D">✓ Clean Architecture &amp; OOP</text>
+  </g>
+
+  <!-- Metric 2: Uptime & SLA Quality -->
+  <g transform="translate(245, 15)">
+    <rect width="215" height="170" rx="12" fill="url(#metricCardBg)" class="card-box" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#emeraldGlow)" rx="1.5" />
+    
+    <rect x="18" y="24" width="28" height="28" rx="6" fill="#11998E" fill-opacity="0.2" stroke="#38EF7D" stroke-width="1.2" />
+    <circle cx="32" cy="38" r="5" stroke="#38EF7D" stroke-width="1.8" fill="none" />
+    <circle cx="32" cy="38" r="2" fill="#38EF7D" />
+
+    <text x="56" y="42" class="metric-title">RELIABILITY</text>
+    <text x="18" y="94" class="metric-val" fill="url(#emeraldGlow)">99.9%</text>
+    <text x="18" y="122" class="metric-sub">Type-Safety &amp; Error Boundary</text>
+    <text x="18" y="142" class="metric-sub" fill="#7EE787">✓ Automated CI/CD Pipelines</text>
+  </g>
+
+  <!-- Metric 3: Active Production Code -->
+  <g transform="translate(480, 15)">
+    <rect width="215" height="170" rx="12" fill="url(#metricCardBg)" class="card-box" />
+    <rect x="0" y="0" width="215" height="3" fill="url(#cyanGlow)" rx="1.5" />
+    
+    <rect x="18" y="24" width="28" height="28" rx="6" fill="#3A7BD5" fill-opacity="0.2" stroke="#00D2FF" stroke-width="1.2" />
+    <path d="M26 34 L38 34 M26 38 L34 38 M26 42 L36 42" stroke="#00D2FF" stroke-width="1.8" stroke-linecap="round" />
+
+    <text x="56" y="42" class="metric-title">ECOSYSTEM</text>
+    <text x="18" y="94" class="metric-val" fill="url(#cyanGlow)">TypeScript</text>
+    <text x="18" y="122" class="metric-sub">Enterprise-grade NestJS &amp; Next</text>
+    <text x="18" y="142" class="metric-sub" fill="#79C0FF">✓ Cross-Platform Mobile (Expo)</text>
+  </g>
+
+  <!-- Metric 4: Production Solutions Delivered -->
+  <g transform="translate(715, 15)">
+    <rect width="225" height="170" rx="12" fill="url(#metricCardBg)" class="card-box" />
+    <rect x="0" y="0" width="225" height="3" fill="url(#amberGlow)" rx="1.5" />
+    
+    <rect x="18" y="24" width="28" height="28" rx="6" fill="#FFB347" fill-opacity="0.2" stroke="#FFCC33" stroke-width="1.2" />
+    <path d="M27 41 L31 44 L37 32" stroke="#FFCC33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+
+    <text x="56" y="42" class="metric-title">DELIVERY</text>
+    <text x="18" y="94" class="metric-val" fill="url(#amberGlow)">Scalable</text>
+    <text x="18" y="122" class="metric-sub">Continuous Shipping Mentality</text>
+    <text x="18" y="142" class="metric-sub" fill="#FFA657">✓ Focused on Real User Value</text>
+  </g>
+</svg>

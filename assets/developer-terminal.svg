@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 440" width="100%" height="auto" role="img" aria-label="Interactive Terminal Architecture & Status">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14" />
+      <stop offset="50%" stop-color="#11091C" />
+      <stop offset="100%" stop-color="#08070D" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B24FCB" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#B24FCB;#600883;#38EF7D;#B24FCB" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#9303C5" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#9303C5;#38EF7D;#B24FCB;#9303C5" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.2" opacity="0.35" />
+    </pattern>
+
+    <!-- Subtle Radial Glow -->
+    <radialGradient id="cornerGlow" cx="90%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#9303C5" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#9303C5" stop-opacity="0" />
+    </radialGradient>
+
+    <style>
+      .term-code {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
+        font-size: 13.5px;
+      }
+      .t-dim { fill: #6E7681; }
+      .t-kw { fill: #FF7B72; font-weight: 600; }
+      .t-prop { fill: #79C0FF; }
+      .t-str { fill: #A5D6FF; }
+      .t-num { fill: #FFA657; }
+      .t-val { fill: #C9D1D9; }
+      .t-purple { fill: #D2A8FF; font-weight: bold; }
+      .t-green { fill: #7EE787; font-weight: bold; }
+      .t-tag { fill: #38EF7D; }
+
+      /* Blinking cursor animation */
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1s infinite;
+      }
+
+      /* Radar Sweep / Pulse */
+      @keyframes pulseGlow {
+        0% { r: 4px; opacity: 1; }
+        100% { r: 12px; opacity: 0; }
+      }
+      .pulse-ring {
+        animation: pulseGlow 2s cubic-bezier(0.24, 0, 0.38, 1) infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Window Container -->
+  <rect x="2" y="2" width="946" height="436" rx="14" fill="url(#termBg)" stroke="url(#borderGlow)" stroke-width="1.6" />
+  <rect x="2" y="2" width="946" height="436" rx="14" fill="url(#cornerGlow)" />
+  <rect x="2" y="2" width="946" height="436" rx="14" fill="url(#scanlines)" />
+
+  <!-- Window Header Bar -->
+  <path d="M 2 16 A 14 14 0 0 1 16 2 L 934 2 A 14 14 0 0 1 948 16 L 948 42 L 2 42 Z" fill="#161B22" opacity="0.85" />
+  <line x1="2" y1="42" x2="948" y2="42" stroke="#30363D" stroke-width="1" />
+
+  <!-- Window Control Buttons (macOS / Linux style) -->
+  <circle cx="24" cy="22" r="6" fill="#FF5F56" />
+  <circle cx="44" cy="22" r="6" fill="#FFBD2E" />
+  <circle cx="64" cy="22" r="6" fill="#27C93F" />
+
+  <!-- Window Title -->
+  <g class="term-code">
+    <text x="475" y="26" text-anchor="middle" fill="#8B949E" font-size="12" letter-spacing="1">
+      ridho@production-cluster: ~/workspace/profile (zsh - session: active)
+    </text>
+  </g>
+
+  <!-- Live Status Beacon in Header Right -->
+  <g transform="translate(870, 22)">
+    <circle cx="0" cy="0" r="4" fill="#38EF7D" />
+    <circle cx="0" cy="0" r="4" fill="#38EF7D" class="pulse-ring" stroke="#38EF7D" stroke-width="1.2" fill-opacity="0" />
+    <text x="12" y="4" class="term-code" fill="#7EE787" font-size="11" font-weight="600">LIVE</text>
+  </g>
+
+  <!-- Code Body -->
+  <g class="term-code" transform="translate(32, 72)">
+    <!-- Line numbers background column -->
+    <rect x="-8" y="-6" width="30" height="348" fill="#0D1117" opacity="0.4" rx="4" />
+    
+    <!-- Code Lines -->
+    <g class="t-dim" font-size="12" text-anchor="end">
+      <text x="14" y="16">01</text>
+      <text x="14" y="38">02</text>
+      <text x="14" y="60">03</text>
+      <text x="14" y="82">04</text>
+      <text x="14" y="104">05</text>
+      <text x="14" y="126">06</text>
+      <text x="14" y="148">07</text>
+      <text x="14" y="170">08</text>
+      <text x="14" y="192">09</text>
+      <text x="14" y="214">10</text>
+      <text x="14" y="236">11</text>
+      <text x="14" y="258">12</text>
+      <text x="14" y="280">13</text>
+      <text x="14" y="302">14</text>
+      <text x="14" y="324">15</text>
+    </g>
+
+    <!-- Syntax Highlighted Code -->
+    <g transform="translate(36, 0)">
+      <!-- Line 01 -->
+      <text x="0" y="16">
+        <tspan class="t-kw">const</tspan> <tspan class="t-purple">leadDeveloper</tspan>: <tspan class="t-prop">SoftwareEngineer</tspan> = {
+      </text>
+
+      <!-- Line 02 -->
+      <text x="18" y="38">
+        <tspan class="t-prop">name</tspan>: <tspan class="t-str">"Ridho Putra Aulia"</tspan>,
+        <tspan class="t-dim">// aka 'Emonn'</tspan>
+      </text>
+
+      <!-- Line 03 -->
+      <text x="18" y="60">
+        <tspan class="t-prop">coreFocus</tspan>: [<tspan class="t-str">"Scalable Web Architecture"</tspan>, <tspan class="t-str">"Full-Stack Systems"</tspan>, <tspan class="t-str">"Production Engineering"</tspan>],
+      </text>
+
+      <!-- Line 04 -->
+      <text x="18" y="82">
+        <tspan class="t-prop">systemStatus</tspan>: <tspan class="t-str">"Active &amp; Engineering High-Impact Software"</tspan>,
+      </text>
+
+      <!-- Line 05 -->
+      <text x="18" y="104">
+        <tspan class="t-prop">primaryStack</tspan>: {
+      </text>
+
+      <!-- Line 06 -->
+      <text x="36" y="126">
+        <tspan class="t-prop">runtime</tspan>: [<tspan class="t-str">"Node.js"</tspan>, <tspan class="t-str">"TypeScript"</tspan>],
+        <tspan class="t-prop">web</tspan>: [<tspan class="t-str">"Next.js"</tspan>, <tspan class="t-str">"React"</tspan>, <tspan class="t-str">"TailwindCSS"</tspan>],
+      </text>
+
+      <!-- Line 07 -->
+      <text x="36" y="148">
+        <tspan class="t-prop">backend</tspan>: [<tspan class="t-str">"NestJS Enterprise"</tspan>, <tspan class="t-str">"REST / GraphQL APIs"</tspan>],
+      </text>
+
+      <!-- Line 08 -->
+      <text x="36" y="170">
+        <tspan class="t-prop">persistence</tspan>: [<tspan class="t-str">"PostgreSQL (ACID)"</tspan>, <tspan class="t-str">"MySQL"</tspan>, <tspan class="t-str">"Prisma ORM"</tspan>],
+      </text>
+
+      <!-- Line 09 -->
+      <text x="36" y="192">
+        <tspan class="t-prop">devops</tspan>: [<tspan class="t-str">"Docker"</tspan>, <tspan class="t-str">"CI/CD GitHub Actions"</tspan>, <tspan class="t-str">"Cloud Deployments"</tspan>]
+      </text>
+
+      <!-- Line 10 -->
+      <text x="18" y="214">},</text>
+
+      <!-- Line 11 -->
+      <text x="18" y="236">
+        <tspan class="t-prop">flagshipProducts</tspan>: {
+      </text>
+
+      <!-- Line 12 -->
+      <text x="36" y="258">
+        <tspan class="t-prop">flagship</tspan>: <tspan class="t-str">"MindCare"</tspan>, <tspan class="t-dim">/* AI Consultation &amp; Mood Tracking Ecosystem */</tspan>
+      </text>
+
+      <!-- Line 13 -->
+      <text x="36" y="280">
+        <tspan class="t-prop">mobileFintech</tspan>: <tspan class="t-str">"SmartVault"</tspan> <tspan class="t-dim">/* Cross-platform Finance with AI OCR Assistant */</tspan>
+      </text>
+
+      <!-- Line 14 -->
+      <text x="18" y="302">},</text>
+
+      <!-- Line 15 -->
+      <text x="0" y="324">
+        };
+        <tspan class="t-green">console</tspan>.<tspan class="t-prop">log</tspan>(<tspan class="t-str">"Ready to collaborate on visionary projects!"</tspan>);
+        <tspan class="cursor" fill="#CE36CC">█</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
