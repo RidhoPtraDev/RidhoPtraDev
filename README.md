@@ -148,7 +148,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
     <tr>
       <td>
         <b>💎 <a href="https://github.com/RidhoPtraDev/SmartVault">SmartVault</a></b><br>
-        <sub>Mobile & Backend Engineer</sub>
+        <sub>Full-Stack Engineer</sub>
       </td>
       <td>
         Cross-platform personal finance & asset manager (Android & iOS). Features smart transaction tagging, automated <b>AI OCR receipt scanning via WhatsApp</b>, and periodic scheduled financial health diagnostics.
@@ -162,7 +162,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
     <tr>
       <td>
         <b>🌱 <a href="https://github.com/RidhoPtraDev/Parenting1stkey">Parenting1stKey</a></b><br>
-        <sub>Full-Stack AI Architect</sub>
+        <sub>Lead Backend & AI Architect</sub>
       </td>
       <td>
         AI-powered modern parenting ecosystem featuring <b>ParentBot AI</b> (RAG-based child development assistant), expert consultations (chat & video call with certified psychologists/pediatricians), and <b>Good Gizi</b> toddler nutrition calculators.
@@ -176,7 +176,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
     <tr>
       <td>
         <b>🧪 <a href="https://github.com/RidhoPtraDev/learning-space">learning-space</a></b><br>
-        <sub>Core Maintainer</sub>
+        <sub>Backend Engineer & Core Maintainer</sub>
       </td>
       <td>
         Engineering playground dedicated to researching modern web primitives, algorithm optimization, design system components, and clean code paradigms.
