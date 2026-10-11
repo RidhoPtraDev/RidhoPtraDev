@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting **MindCare** (an AI-powered mental healthcare ecosystem) and **SmartVault** (an intelligent personal finance tracker with automated OCR).
+- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting & child growth platform), and **SmartVault** (cross-platform finance manager).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -157,6 +157,20 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         <code>React Native</code> <code>Expo</code><br>
         <code>TypeScript</code> <code>Node.js</code><br>
         <code>PostgreSQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🌱 <a href="https://github.com/RidhoPtraDev/Parenting1stkey">Parenting1stKey</a></b><br>
+        <sub>Full-Stack AI Architect</sub>
+      </td>
+      <td>
+        AI-powered modern parenting ecosystem featuring <b>ParentBot AI</b> (RAG-based child development assistant), expert consultations (chat & video call with certified psychologists/pediatricians), and <b>Good Gizi</b> toddler nutrition calculators.
+      </td>
+      <td>
+        <code>Next.js 14</code> <code>NestJS</code><br>
+        <code>PostgreSQL</code> <code>Redis</code><br>
+        <code>pgvector</code> <code>TypeORM</code>
       </td>
     </tr>
     <tr>

@@ -174,12 +174,12 @@
 
       <!-- Line 12 -->
       <text x="36" y="258">
-        <tspan class="t-prop">flagship</tspan>: <tspan class="t-str">"MindCare"</tspan>, <tspan class="t-dim">/* AI Consultation and Mood Tracking Ecosystem */</tspan>
+        <tspan class="t-prop">healthcareAI</tspan>: [<tspan class="t-str">"MindCare"</tspan>, <tspan class="t-str">"Parenting1stKey"</tspan>],
       </text>
 
       <!-- Line 13 -->
       <text x="36" y="280">
-        <tspan class="t-prop">mobileFintech</tspan>: <tspan class="t-str">"SmartVault"</tspan> <tspan class="t-dim">/* Cross-platform Finance with AI OCR Assistant */</tspan>
+        <tspan class="t-prop">mobileFintech</tspan>: <tspan class="t-str">"SmartVault"</tspan> <tspan class="t-dim">/* Cross-platform Finance with AI OCR */</tspan>
       </text>
 
       <!-- Line 14 -->
