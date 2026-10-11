@@ -132,8 +132,12 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
   </thead>
   <tbody>
     <tr>
-      <td>
-        <b>🧠 <a href="https://github.com/RidhoPtraDev/MindCare">MindCare</a></b><br>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/MindCare">
+          <img src="./assets/projects/logo-mindcare.png" width="46" height="46" alt="MindCare Logo" style="vertical-align: middle; border-radius: 8px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/MindCare">MindCare</a></b><br>
         <sub>Lead Full-Stack Architect</sub>
       </td>
       <td>
@@ -146,8 +150,12 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
       </td>
     </tr>
     <tr>
-      <td>
-        <b>💎 <a href="https://github.com/RidhoPtraDev/SmartVault">SmartVault</a></b><br>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/SmartVault">
+          <img src="./assets/projects/logo-smartvault.png" width="46" height="46" alt="SmartVault Logo" style="vertical-align: middle; border-radius: 8px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/SmartVault">SmartVault</a></b><br>
         <sub>Full-Stack Engineer</sub>
       </td>
       <td>
@@ -160,8 +168,12 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
       </td>
     </tr>
     <tr>
-      <td>
-        <b>🌱 <a href="https://github.com/RidhoPtraDev/Parenting1stkey">Parenting1stKey</a></b><br>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/Parenting1stkey">
+          <img src="./assets/projects/logo-parenting.png" height="38" alt="Parenting1stKey Logo" style="vertical-align: middle;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/Parenting1stkey">Parenting1stKey</a></b><br>
         <sub>Lead Backend & AI Architect</sub>
       </td>
       <td>
@@ -174,8 +186,12 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
       </td>
     </tr>
     <tr>
-      <td>
-        <b>🧪 <a href="https://github.com/RidhoPtraDev/learning-space">learning-space</a></b><br>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/learning-space">
+          <img src="./assets/projects/logo-learning-space.png" height="24" alt="learning-space Logo" style="vertical-align: middle;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/learning-space">learning-space</a></b><br>
         <sub>Backend Engineer & Core Maintainer</sub>
       </td>
       <td>
