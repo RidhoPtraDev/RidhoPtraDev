@@ -23,14 +23,14 @@
 
 <!-- Interactive Developer Terminal SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/14d4622/assets/developer-terminal.svg" width="92%" alt="Interactive Terminal Architecture"/>
+  <img src="./assets/developer-terminal.svg" width="92%" alt="Interactive Terminal Architecture"/>
 </div>
 
 <br>
 
 <!-- Senior Engineering Metrics & KPIs -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RidhoPtraDev/RidhoPtraDev/14d4622/assets/senior-metrics.svg" width="92%" alt="Engineering Capabilities & Metrics"/>
+  <img src="./assets/senior-metrics.svg" width="92%" alt="Engineering Capabilities & Metrics"/>
 </div>
 
 <div align="center">
