@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 200" width="950" height="200" role="img" aria-label="Key Performance Indicators &amp; Engineering Metrics">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 200" width="950" height="200" role="img" aria-label="Key Performance Indicators and Engineering Metrics">
   <defs>
     <linearGradient id="metricCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#120E1E" />
@@ -70,11 +70,11 @@
     
     <text x="56" y="42" class="metric-title">ENGINEERING</text>
     <text x="18" y="94" class="metric-val" fill="url(#purpleGlow)">Full-Stack</text>
-    <text x="18" y="122" class="metric-sub">Client to Database &amp; Infra</text>
-    <text x="18" y="142" class="metric-sub" fill="#38EF7D">✓ Clean Architecture &amp; OOP</text>
+    <text x="18" y="122" class="metric-sub">Client to Database and Infra</text>
+    <text x="18" y="142" class="metric-sub" fill="#38EF7D">+ Clean Architecture and OOP</text>
   </g>
 
-  <!-- Metric 2: Uptime &amp; SLA Quality -->
+  <!-- Metric 2: Uptime and SLA Quality -->
   <g transform="translate(245, 15)">
     <rect width="215" height="170" rx="12" fill="url(#metricCardBg)" class="card-box" />
     <rect x="0" y="0" width="215" height="3" fill="url(#emeraldGlow)" rx="1.5" />
@@ -85,8 +85,8 @@
 
     <text x="56" y="42" class="metric-title">RELIABILITY</text>
     <text x="18" y="94" class="metric-val" fill="url(#emeraldGlow)">99.9%</text>
-    <text x="18" y="122" class="metric-sub">Type-Safety &amp; Error Boundary</text>
-    <text x="18" y="142" class="metric-sub" fill="#7EE787">✓ Automated CI/CD Pipelines</text>
+    <text x="18" y="122" class="metric-sub">Type-Safety and Error Boundary</text>
+    <text x="18" y="142" class="metric-sub" fill="#7EE787">+ Automated CI/CD Pipelines</text>
   </g>
 
   <!-- Metric 3: Active Production Code -->
@@ -99,8 +99,8 @@
 
     <text x="56" y="42" class="metric-title">ECOSYSTEM</text>
     <text x="18" y="94" class="metric-val" fill="url(#cyanGlow)">TypeScript</text>
-    <text x="18" y="122" class="metric-sub">Enterprise-grade NestJS &amp; Next</text>
-    <text x="18" y="142" class="metric-sub" fill="#79C0FF">✓ Cross-Platform Mobile (Expo)</text>
+    <text x="18" y="122" class="metric-sub">Enterprise-grade NestJS and Next</text>
+    <text x="18" y="142" class="metric-sub" fill="#79C0FF">+ Cross-Platform Mobile (Expo)</text>
   </g>
 
   <!-- Metric 4: Production Solutions Delivered -->
@@ -114,6 +114,6 @@
     <text x="56" y="42" class="metric-title">DELIVERY</text>
     <text x="18" y="94" class="metric-val" fill="url(#amberGlow)">Scalable</text>
     <text x="18" y="122" class="metric-sub">Continuous Shipping Mentality</text>
-    <text x="18" y="142" class="metric-sub" fill="#FFA657">✓ Focused on Real User Value</text>
+    <text x="18" y="142" class="metric-sub" fill="#FFA657">+ Focused on Real User Value</text>
   </g>
 </svg>
