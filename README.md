@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting & child growth platform), and **SmartVault** (cross-platform finance manager).
+- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting platform), **SmartVault** (personal finance), and **WarisanKU** (Islamic inheritance computing).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -183,6 +183,24 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         <code>Next.js 14</code> <code>NestJS</code><br>
         <code>PostgreSQL</code> <code>Redis</code><br>
         <code>pgvector</code> <code>TypeORM</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/WarisanKU">
+          <img src="./assets/projects/logo-warisanku.jpg" width="46" height="46" alt="WarisanKU Logo" style="vertical-align: middle; border-radius: 8px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/WarisanKU">WarisanKU</a></b><br>
+        <sub>Android & Backend Engineer</sub>
+      </td>
+      <td>
+        Modern Android-based Islamic inheritance computational system (<b>Ilmu Faraidh</b>). Features dynamic Dzawil Furudh & Asabah engines, multi-asset wealth valuation, and cloud calculation history with Firestore.
+      </td>
+      <td>
+        <code>Java (JDK 17)</code> <code>Android</code><br>
+        <code>Firebase Auth</code> <code>Firestore</code><br>
+        <code>Cloudinary</code> <code>Glide</code>
       </td>
     </tr>
     <tr>

@@ -179,7 +179,7 @@
 
       <!-- Line 13 -->
       <text x="36" y="280">
-        <tspan class="t-prop">mobileFintech</tspan>: <tspan class="t-str">"SmartVault"</tspan> <tspan class="t-dim">/* Cross-platform Finance with AI OCR */</tspan>
+        <tspan class="t-prop">mobileFintech</tspan>: [<tspan class="t-str">"SmartVault"</tspan>, <tspan class="t-str">"WarisanKU"</tspan>],
       </text>
 
       <!-- Line 14 -->
