@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting platform), **SmartVault** (personal finance), and **WarisanKU** (Islamic inheritance computing).
+- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting platform), **SmartVault** (personal finance), **WarisanKU** (Islamic inheritance computing), and **EchoCommand** (TinyML & Edge AI Keyword Spotting).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -201,6 +201,24 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         <code>Java (JDK 17)</code> <code>Android</code><br>
         <code>Firebase Auth</code> <code>Firestore</code><br>
         <code>Cloudinary</code> <code>Glide</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/EchoCommand">
+          <img src="./assets/projects/logo-echocommand.png" width="46" height="46" alt="EchoCommand VoiceSnake Logo" style="vertical-align: middle; border-radius: 8px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/EchoCommand">EchoCommand</a></b><br>
+        <sub>Lead Edge AI & Systems Engineer</sub>
+      </td>
+      <td>
+        Industrial-grade <b>Keyword Spotting (KWS)</b> deep learning system for IoT edge computing with <b>DS-CNN & CRNN</b> architectures. Features full INT8 TensorFlow Lite quantization (<b>45.6 KB</b> binary, <b>0.12 ms</b> inference), canonical log-mel/MFCC acoustic pipeline, and real-time interactive <b>VoiceSnake</b> web game demo.
+      </td>
+      <td>
+        <code>Python 3.10</code> <code>TensorFlow</code><br>
+        <code>TFLite INT8</code> <code>Flask</code><br>
+        <code>Socket.IO</code> <code>HTML5 Canvas</code>
       </td>
     </tr>
     <tr>
