@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting **MindCare** (mental healthcare ecosystem), **Parenting1stKey** (AI parenting platform), **SmartVault** (personal finance), **WarisanKU** (Islamic inheritance computing), and **EchoCommand** (TinyML & Edge AI Keyword Spotting).
+- 🔭 **Current Focus**: Architecting flagship platforms (**MindCare**, **Parenting1stKey**, **SmartVault**, **WarisanKU**) & engineering edge AI experiments (**EchoCommand**).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -205,6 +205,39 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
     </tr>
     <tr>
       <td align="center">
+        <a href="https://github.com/RidhoPtraDev/learning-space">
+          <img src="./assets/projects/logo-learning-space.png" height="24" alt="learning-space Logo" style="vertical-align: middle;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/learning-space">learning-space</a></b><br>
+        <sub>Backend Engineer & Core Maintainer</sub>
+      </td>
+      <td>
+        Engineering playground dedicated to researching modern web primitives, algorithm optimization, design system components, and clean code paradigms.
+      </td>
+      <td>
+        <code>TypeScript</code> <code>DOM APIs</code><br>
+        <code>State Management</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### 🔬 Mini Projects & AI Experiments
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project & Role</th>
+      <th width="45%">Architecture & Key Features</th>
+      <th width="25%">Engineering Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
         <a href="https://github.com/RidhoPtraDev/EchoCommand">
           <img src="./assets/projects/logo-echocommand.png" width="46" height="46" alt="EchoCommand VoiceSnake Logo" style="vertical-align: middle; border-radius: 8px;"/>
         </a>
@@ -219,23 +252,6 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         <code>Python 3.10</code> <code>TensorFlow</code><br>
         <code>TFLite INT8</code> <code>Flask</code><br>
         <code>Socket.IO</code> <code>HTML5 Canvas</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/RidhoPtraDev/learning-space">
-          <img src="./assets/projects/logo-learning-space.png" height="24" alt="learning-space Logo" style="vertical-align: middle;"/>
-        </a>
-        <br>
-        <b><a href="https://github.com/RidhoPtraDev/learning-space">learning-space</a></b><br>
-        <sub>Backend Engineer & Core Maintainer</sub>
-      </td>
-      <td>
-        Engineering playground dedicated to researching modern web primitives, algorithm optimization, design system components, and clean code paradigms.
-      </td>
-      <td>
-        <code>TypeScript</code> <code>DOM APIs</code><br>
-        <code>State Management</code>
       </td>
     </tr>
   </tbody>
