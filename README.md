@@ -265,8 +265,6 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
   <br>
 
   <img src="./assets/stats-card.svg" width="100%" alt="GitHub stats snapshot"/>
-
-  <sub><i>Snapshot statis yang dioptimasi agar profil tetap super cepat dan 100% bebas error/downtime pihak ketiga.</i></sub>
 </div>
 
 <br>
