@@ -156,7 +156,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         </a>
         <br>
         <b><a href="https://github.com/RidhoPtraDev/SmartVault">SmartVault</a></b><br>
-        <sub>Android & Full-Stack Engineer</sub>
+        <sub>Android Developer & Full-Stack Engineer</sub>
       </td>
       <td>
         Cross-platform personal finance & asset manager (Android & iOS). Features smart transaction tagging, automated <b>AI OCR receipt scanning via WhatsApp</b>, and periodic scheduled financial health diagnostics.
@@ -192,7 +192,7 @@ I am **Ridho Putra Aulia** (aku **Emonn**), a passionate **Full-Stack Software E
         </a>
         <br>
         <b><a href="https://github.com/RidhoPtraDev/WarisanKU">WarisanKU</a></b><br>
-        <sub>Android & Full-Stack Engineer</sub>
+        <sub>Android Developer & Full-Stack Engineer</sub>
       </td>
       <td>
         Modern Android-based Islamic inheritance computational system (<b>Ilmu Faraidh</b>). Features dynamic Dzawil Furudh & Asabah engines, multi-asset wealth valuation, and cloud calculation history with Firestore.
