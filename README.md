@@ -243,7 +243,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
         </a>
         <br>
         <b><a href="https://github.com/RidhoPtraDev/JaSuKe">JaSuKe</a></b><br>
-        <sub>NLP & Computer Vision AI Engineer</sub>
+        <sub>Lead Project • NLP & Computer Vision AI Engineer</sub>
       </td>
       <td>
         Bidirectional <b>Neural Machine Translation (NMT)</b> system for low-resource regional languages (Javanese, Sundanese, Indonesian) fine-tuned on <b>NLLB-200 (BLEU: 51.79)</b>. Integrates <b>TrOCR Vision Transformer</b> for manuscript OCR, deterministic Hanacaraka and Kaganga Unicode transliteration, safety guardrails, and interactive Discord bot.
