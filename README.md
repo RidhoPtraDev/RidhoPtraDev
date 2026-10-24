@@ -120,7 +120,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
   <img src="./assets/title-projects.svg" width="100%" alt="Featured Projects"/>
 </div>
 
-### 🚀 Production & Flagship Applications
+### 🚀 Web & Mobile Applications
 
 <table width="100%">
   <thead>
