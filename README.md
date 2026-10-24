@@ -257,7 +257,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
     <tr>
       <td align="center">
         <a href="https://github.com/RidhoPtraDev/EchoCommand">
-          <img src="./assets/projects/logo-echocommand.png" width="46" height="46" alt="EchoCommand VoiceSnake Logo" style="vertical-align: middle; border-radius: 8px;"/>
+          <img src="./assets/projects/logo-echocommand.png" width="58" alt="EchoCommand VoiceSnake Logo" style="vertical-align: middle; border-radius: 8px;"/>
         </a>
         <br>
         <b><a href="https://github.com/RidhoPtraDev/EchoCommand">EchoCommand</a></b><br>
