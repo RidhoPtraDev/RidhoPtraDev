@@ -180,7 +180,7 @@
       <!-- Line 13 -->
       <text x="36" y="280">
         <tspan class="t-prop">mobileFintech</tspan>: [<tspan class="t-str">"SmartVault"</tspan>, <tspan class="t-str">"WarisanKU"</tspan>],
-        <tspan class="t-prop">miniEdgeAI</tspan>: <tspan class="t-str">"EchoCommand"</tspan>
+        <tspan class="t-prop">aiExperiments</tspan>: [<tspan class="t-str">"JaSuKe"</tspan>, <tspan class="t-str">"EchoCommand"</tspan>]
       </text>
 
       <!-- Line 14 -->

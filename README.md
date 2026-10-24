@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting flagship platforms (**MindCare**, **Parenting1stKey**, **SmartVault**, **WarisanKU**) & engineering edge AI experiments (**EchoCommand**).
+- 🔭 **Current Focus**: Architecting flagship platforms (**MindCare**, **Parenting1stKey**, **SmartVault**, **WarisanKU**) & engineering AI systems (**JaSuKe**, **EchoCommand**).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -236,6 +236,24 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RidhoPtraDev/JaSuKe">
+          <img src="./assets/projects/logo-jasuke.png" width="46" height="46" alt="JaSuKe Official Logo" style="vertical-align: middle; border-radius: 8px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/RidhoPtraDev/JaSuKe">JaSuKe</a></b><br>
+        <sub>Lead Edge AI & Systems Engineer</sub>
+      </td>
+      <td>
+        Bidirectional <b>Neural Machine Translation (NMT)</b> system for low-resource regional languages (Javanese, Sundanese, Indonesian) fine-tuned on <b>NLLB-200 (BLEU: 51.79)</b>. Integrates <b>TrOCR Vision Transformer</b> for manuscript OCR, deterministic Hanacaraka and Kaganga Unicode transliteration, safety guardrails, and interactive Discord bot.
+      </td>
+      <td>
+        <code>Python 3.10</code> <code>PyTorch</code><br>
+        <code>NLLB-200</code> <code>TrOCR</code><br>
+        <code>Discord.py</code> <code>Node.js</code>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/RidhoPtraDev/EchoCommand">
