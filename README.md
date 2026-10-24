@@ -225,7 +225,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
 
 <br>
 
-### 🔬 AI Research & Data Science Engineering
+### 🔬 AI Research & Data Science Experiments
 
 <table width="100%">
   <thead>
