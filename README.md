@@ -47,7 +47,7 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
 [FOCUS] TypeScript • Next.js App Router • NestJS Microservices • PostgreSQL • Docker
 ```
 
-- 🔭 **Current Focus**: Architecting flagship platforms (**MindCare**, **Parenting1stKey**, **SmartVault**, **WarisanKU**) & engineering AI systems (**JaSuKe**, **EchoCommand**).
+- 🔭 **Current Focus**: Architecting flagship platforms (**MindCare**, **Parenting1stKey**, **SmartVault**, **WarisanKU**, **Bookly**) & engineering AI systems (**JaSuKe**, **EchoCommand**).
 - ⚙️ **Core Values**: Scalability, strict type-safety, observability, and human-centric UI/UX.
 - 💡 **Open for Collaboration**: High-impact products, enterprise engineering teams, and visionary startup initiatives.
 
@@ -201,6 +201,24 @@ I am **Ridho Putra Aulia**, a passionate **Full-Stack Software Engineer** dedica
         <code>Java (JDK 17)</code> <code>Android</code><br>
         <code>Firebase Auth</code> <code>Firestore</code><br>
         <code>Cloudinary</code> <code>Glide</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Marsholeh/Bookly">
+          <img src="./assets/projects/logo-bookly.png" height="34" alt="Bookly Logo" style="vertical-align: middle; border-radius: 6px;"/>
+        </a>
+        <br>
+        <b><a href="https://github.com/Marsholeh/Bookly">Bookly</a></b><br>
+        <sub>Lead Backend & Database Architect</sub>
+      </td>
+      <td>
+        Modern campus library circulation and information system for Universitas Mercu Buana. Features transparent multi-duration loan calculations, verified reader review moderation, fine accounting engines, Cloudinary digital asset management, and PostgreSQL Neon integration.
+      </td>
+      <td>
+        <code>Laravel 12</code> <code>PHP 8.3</code><br>
+        <code>PostgreSQL (Neon)</code> <code>Cloudinary</code><br>
+        <code>Tailwind CSS</code> <code>Alpine.js</code>
       </td>
     </tr>
     <tr>
